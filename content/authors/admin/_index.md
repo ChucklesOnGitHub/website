@@ -1,7 +1,6 @@
 ---
 title: Lic. Cecilia Thomsett Herbert
-role: PhD student at the Dynamical Systems Laboratory at University of Buenos
-  Aires and CONICET
+role: PhD student at the Dynamical Systems Laboratory, UBA and CONICET
 avatar_filename: avatar_ceci.jpg
 bio: ""
 interests: []
@@ -29,12 +28,14 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0003-0349-2584
 organizations:
+  - name: " Dynamical Systems Laboratory"
+    url: http://www.lsd.df.uba.ar/
   - name: Department of Physics, University of Buenos Aires
     url: https://sitio.df.uba.ar
+  - name: CONICET
+    url: https://www.conicet.gov.ar/new_scp/detalle.php?id=50233&datos_academicos=yes
   - name: Talleres Open Source
     url: https://github.com/talleresopensource/
-  - name: Open Neuroscience
-    url: https://open-neuroscience.com/
 education:
   courses:
     - course: PhD in Neuroscience
