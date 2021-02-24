@@ -2,6 +2,7 @@
 title: Lic. Cecilia Thomsett Herbert
 role: PhD student at the Dynamical Systems Laboratory at University of Buenos
   Aires and CONICET
+avatar_filename: avatar_ceci.jpg
 bio: ""
 interests: []
 social:
