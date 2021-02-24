@@ -41,9 +41,9 @@ education:
     - course: PhD in Neuroscience
       institution: University of Buenos Aires
       year: 2021
-    - course: Licenciatura in Biology
+    - course: Biology Licenciatura
       institution: University of Buenos Aires
-      year: 2015
+      year: 2017
 email: ""
 superuser: true
 highlight_name: false
