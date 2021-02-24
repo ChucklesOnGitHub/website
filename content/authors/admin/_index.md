@@ -1,77 +1,57 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+title: Lic. Cecilia Thomsett Herbert
+role: PhD student at the Dynamical Systems Laboratory at University of Buenos
+  Aires and CONICET
+bio: ""
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ChuckleScience
+    display:
+      header: false
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=wAjdb0cAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ChucklesOnGitHub
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/cecilia-herbert-3847a877/
+  - display:
+      header: false
+    icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-0349-2584
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - name: Department of Physics, University of Buenos Aires
+    url: https://sitio.df.uba.ar
+  - name: Talleres Open Source
+    url: https://github.com/talleresopensource/
+  - name: Open Neuroscience
+    url: https://open-neuroscience.com/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Neuroscience
+      institution: University of Buenos Aires
+      year: 2021
+    - course: Licenciatura in Biology
+      institution: University of Buenos Aires
+      year: 2015
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+I am currently studying neural coding of song production in canaries using electrophysiology. My research interests are in behavioural neuroscience. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I promote open science and like to encourage people to try new tools that might help them solve their problems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in the intersection between education and technology and love doing outreach on bioacoustics and sound visualization.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I also enjoy playing the oboe and have been a member of several orchestras and ensembles.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_2021_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
