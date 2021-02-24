@@ -43,7 +43,7 @@ education:
       year: 2021
     - course: Biology Licenciatura
       institution: University of Buenos Aires
-      year: 2017
+      year: 2016
 email: ""
 superuser: true
 highlight_name: false
