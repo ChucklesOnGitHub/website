@@ -63,7 +63,7 @@ image:
     example recorded during production of a P0 syllable in the same animal as in
     (a)."
   focal_point: center
-  preview_only: false
+  preview_only: true
   filename: chaos_fig.png
 date: 2013-07-01T00:00:00Z
 url_slides: ""
