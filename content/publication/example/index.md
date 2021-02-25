@@ -1,87 +1,73 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: Vocal production in songbirds is a key topic regarding the motor
+  control of a complex, learned behavior. Birdsong is the result of the
+  interaction between the activity of an intricate set of neural nuclei
+  specifically dedicated to song production and learning (known as the “song
+  system”), the respiratory system and the vocal organ. These systems interact
+  and give rise to precise biomechanical motor gestures which result in song
+  production. Telencephalic neural nuclei play a key role in the production of
+  motor commands that drive the periphery, and while several attempts have been
+  made to understand their coding strategy, difficulties arise when trying to
+  understand neural activity in the frame of the song system as a whole. In this
+  work, we report neural additive models embedded in an architecture compatible
+  with the song system to provide a tool to reduce the dimensionality of the
+  problem by considering the global activity of the units in each neural
+  nucleus. This model is capable of generating outputs compatible with
+  measurements of air sac pressure during song production in canaries (Serinus
+  canaria). In this work, we show that the activity in a telencephalic nucleus
+  required by the model to reproduce the observed respiratory gestures is
+  compatible with electrophysiological recordings of single neuron activity in
+  freely behaving animals.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Herbert
+  - C. T.
+  - Boari
+  - S.
+  - Mindlin
+  - G. B.
+  - "& Amador"
+  - A.
+author_notes: []
+publication: In *Chaos*
+summary: Grouped neural activity from electrophysiological recordings of single
+  neurons in freely behaving canaries supports a neural model of song production
+  that can reproduce recorded respiratory gestures.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Dynamical model for the neural activity of singing Serinus canaria
+subtitle: May 2020. This article was published as part of the special topic on
+  Instabilities and Nonequilibrium Structures.
+doi: https://doi.org/10.1063/1.5145093
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: "Grouped neural activity data across different birds and example air
+    sac pressure trace. (a) Top panel: raster plot of spiking activity of seven
+    neurons in eight unique P1 phrases from four different animals. Only the
+    first 12 syllables in each phrase are shown. On the vertical axis, each line
+    corresponds to one repetition of a phrase and each color represents an
+    individual neuron. Middle panel: grouped activity histogram for the neurons
+    shown in the raster plot and smoothed histogram curve. Bin size = 15 ms.
+    Bottom panel: example of the air sac pressure recorded in one animal during
+    the production of a P1 phrase. (b) Same information as in (a), the raster
+    plot shows seven neurons in five different P0 syllables from five animals.
+    The pressure trace in the third panel corresponds to a representative
+    example recorded during production of a P0 syllable in the same animal as in
+    (a)."
+  focal_point: center
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: chaos_fig.png
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
