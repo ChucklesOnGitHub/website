@@ -23,14 +23,10 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Herbert
-  - C. T.
-  - Boari
-  - S.
-  - Mindlin
-  - G. B.
-  - "& Amador"
-  - A.
+  - admin
+  - Boari, S.
+  - Mindlin, G. B.
+  - Amador, A.
 author_notes: []
 publication: In *Chaos*
 summary: Grouped neural activity from electrophysiological recordings of single
@@ -42,7 +38,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Dynamical model for the neural activity of singing Serinus canaria
-subtitle: May 2020. This article was published as part of the special topic on
+subtitle: This article was published as part of the special topic on
   Instabilities and Nonequilibrium Structures.
 doi: https://doi.org/10.1063/1.5145093
 featured: true
