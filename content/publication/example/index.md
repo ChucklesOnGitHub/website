@@ -45,14 +45,14 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Grouped neural activity data across different birds and example air
-    sac pressure trace for two different types of canary syllables"
+  caption: Grouped neural activity data across different birds and example air sac
+    pressure trace for two different types of canary syllables
   focal_point: center
-  preview_only: true
+  preview_only: false
   filename: chaos_fig.png
-date: 2013-07-01T00:00:00Z
+date: 2021-02-27T13:10:36.536Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
