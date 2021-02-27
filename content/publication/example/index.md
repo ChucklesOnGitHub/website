@@ -46,18 +46,7 @@ tags: []
 projects: []
 image:
   caption: "Grouped neural activity data across different birds and example air
-    sac pressure trace. (a) Top panel: raster plot of spiking activity of seven
-    neurons in eight unique P1 phrases from four different animals. Only the
-    first 12 syllables in each phrase are shown. On the vertical axis, each line
-    corresponds to one repetition of a phrase and each color represents an
-    individual neuron. Middle panel: grouped activity histogram for the neurons
-    shown in the raster plot and smoothed histogram curve. Bin size = 15 ms.
-    Bottom panel: example of the air sac pressure recorded in one animal during
-    the production of a P1 phrase. (b) Same information as in (a), the raster
-    plot shows seven neurons in five different P0 syllables from five animals.
-    The pressure trace in the third panel corresponds to a representative
-    example recorded during production of a P0 syllable in the same animal as in
-    (a)."
+    sac pressure trace for two different types of canary syllables"
   focal_point: center
   preview_only: true
   filename: chaos_fig.png
