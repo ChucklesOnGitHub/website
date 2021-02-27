@@ -12,7 +12,8 @@ publication_types:
   - "2"
 authors:
   - Lassa Ortiz
-  - J; admin;Mindlin
+  - J; Herbert
+  - C ;Mindlin
   - GB;Amador
   - A
 author_notes: []
@@ -34,7 +35,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2021-02-27T13:04:02.413Z
+date: 2019-10-01T13:04:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
