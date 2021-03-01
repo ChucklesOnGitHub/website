@@ -43,7 +43,7 @@ subtitle: This article was published as part of the special topic on
   Instabilities and Nonequilibrium Structures.
 doi: https://doi.org/10.1063/1.5145093
 featured: false
-tags: []
+tags: ["Motor Control"]
 projects: []
 image:
   caption: Grouped neural activity data across different birds and example air sac
