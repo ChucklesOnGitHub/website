@@ -8,7 +8,8 @@ title: How do sounds look?
 subtitle: The spectrogram challenge
 featured: false
 tags:
-  - Bioacoustics;Outreach
+  - Bioacoustics
+  - Outreach
 external_link: ""
 url_slides: ""
 links:
