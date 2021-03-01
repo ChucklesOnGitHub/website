@@ -9,7 +9,7 @@ subtitle: The spectrogram challenge
 featured: false
 tags:
   - Bioacoustics;Outreach
-external_link: '""'
+external_link: ""
 url_slides: ""
 links:
   - icon: youtube
