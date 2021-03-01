@@ -28,7 +28,7 @@ title: Significant Instances in Motor Gestures of Different Songbird Species
 subtitle: ""
 doi: https://doi.org/10.3389/fphy.2019.00142
 featured: false
-tags: []
+tags: ["Motor Control"]
 projects: []
 image:
   caption: ""
