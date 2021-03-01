@@ -49,7 +49,7 @@ image:
     pressure trace for two different types of canary syllables
   focal_point: center
   preview_only: false
-  filename: chaos_fig.png
+  filename: featured.png
 date: 2020-05-18T13:10:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
