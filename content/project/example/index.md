@@ -6,10 +6,10 @@ summary: Outreach activities using spectrograms for FCEN UBA Biology Week
 url_video: ""
 title: How do sounds look?
 subtitle: The spectrogram challenge
-featured: true
+featured: false
 tags:
   - Bioacoustics;Outreach
-external_link: https://www.youtube.com/watch?v=DBgzqF93tIw
+external_link: '""'
 url_slides: ""
 links:
   - icon: youtube
