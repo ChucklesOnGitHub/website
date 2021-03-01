@@ -23,13 +23,10 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Herbert C.
-  - Boari
-  - S.
-  - Mindlin
-  - G. B.
-  - Amador
-  - A.
+  - Herbert C; Boari
+  - S; Mindlin
+  - GB; Amador
+  - A
 author_notes: []
 publication: In *Chaos*
 summary: Grouped neural activity from electrophysiological recordings of single
