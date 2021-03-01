@@ -23,10 +23,10 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Herbert C; Boari
-  - S; Mindlin
-  - GB; Amador
-  - A
+  - Herbert C;
+  - Boari S;
+  - Mindlin GB;
+  - Amador A;
 author_notes: []
 publication: In *Chaos*
 summary: Grouped neural activity from electrophysiological recordings of single
@@ -49,7 +49,7 @@ image:
     pressure trace for two different types of canary syllables
   focal_point: center
   preview_only: false
-  filename: featured.png
+  filename: featured.jpg
 date: 2020-05-18T13:10:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
