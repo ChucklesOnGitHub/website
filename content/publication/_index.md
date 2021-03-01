@@ -10,8 +10,8 @@ cms_exclude: true
 view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: "Grouped neural activity data across different birds and example air
-    sac pressure trace for two different types of canary syllables"
-  image: "chaos_fig.png"
+#header:
+#  caption: "Grouped neural activity data across different birds and example air
+#    sac pressure trace for two different types of canary syllables"
+#  image: "chaos_fig.png"
 ---
