@@ -41,7 +41,7 @@ title: Dynamical model for the neural activity of singing Serinus canaria
 subtitle: This article was published as part of the special topic on
   Instabilities and Nonequilibrium Structures.
 doi: https://doi.org/10.1063/1.5145093
-featured: true
+featured: false
 tags: []
 projects: []
 image:
