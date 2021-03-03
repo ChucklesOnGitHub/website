@@ -37,7 +37,7 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=C1wGYC6LRWU&ab_channel=NeuromatchConference"
 title: Dynamical model for the neural activity of singing Serinus canaria
 subtitle: This article was published as part of the special topic on
   Instabilities and Nonequilibrium Structures.
