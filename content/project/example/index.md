@@ -30,6 +30,6 @@ How can we visualize sounds? In the video we go over how our voice is produced a
 The spectral challenge is included in the video. What can you draw using sound? Check out a few submissions below!
 ![Spectrogram challenge](/media/challenge.gif)
 
-You can make spectrograms online using this helpful [web app](https://spectrogram.sciencemusic.org/) from the Listening to Waves project, or you can download apps for your [Android](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) or [ios](https://apps.apple.com/us/app/spectrumview/id472662922) phone.
+You can make spectrograms online using this helpful [web app](https://spectrogram.sciencemusic.org/) from the Listening to Waves project, or you can download apps for your [Android](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) or [iOS](https://apps.apple.com/us/app/spectrumview/id472662922) phone.
 
 The video is in Spanish, so don't forget to enable closed captions if you need them.
