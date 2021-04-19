@@ -56,4 +56,6 @@ I am interested in the intersection between education and technology and love do
 
 I also enjoy playing the oboe and have been a member of several orchestras and ensembles.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_2021_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_2021_EN.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+![My timeline](/media/Timeline_edited_withlogos_transp.png)
