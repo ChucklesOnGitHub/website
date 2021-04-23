@@ -40,11 +40,11 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-My research interests are in behavioural neuroscience. Currently, I am studying neural coding of song production in canaries using electrophysiology. I built a custom lightweight microdrive and used tetrodes to record extracellular activity in nucleus HVC during song in freely behaving animals and wrote custom scripts to analyze the data. Check out my publications below.
+My research interests are in behavioural neuroscience. Currently, I am studying neural coding of song production in canaries using electrophysiology. I built a custom lightweight microdrive and used tetrodes to record extracellular activity in freely behaving animals and wrote custom scripts to analyze the data. Check out my work below.
 
-In the past year, I have started volunteering in open science initiatives, since I like to encourage and teach people to try new tools that might help them solve their problems. I have always been interested in the intersection between education and technology and love doing outreach on bioacoustics and sound visualization.
+In the past year, I have started volunteering in open science initiatives, since I am passionate about teaching people new tools to help solve their problems and encouraging others to learn. I have always been interested in the intersection between education and technology and love doing outreach on bioacoustics and sound visualization.
 
-I also enjoy everything DIY, baking and playing the oboe in orchestras and ensembles.
+I also enjoy everything DIY, baking and playing the oboe in orchestras.
 
 ![My timeline](/media/Timeline_edited_withlogos_transp.png)
 
