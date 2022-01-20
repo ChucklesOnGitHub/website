@@ -1,6 +1,6 @@
 ---
 title: Cecilia Thomsett Herbert, PhD
-role: PhD student at the Dynamical Systems Laboratory, UBA and CONICET
+role: PhD at the Dynamical Systems Laboratory, UBA and CONICET
 avatar_filename: avatar_ceci.jpg
 bio: ""
 interests: []
