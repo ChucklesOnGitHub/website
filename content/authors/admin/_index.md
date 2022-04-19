@@ -48,4 +48,4 @@ I also enjoy everything DIY, baking and playing the oboe in orchestras.
 
 ![My timeline](/media/Timeline_edited_withlogos_transp.png)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CHerbert_2021_Resume_EN.pdf" "newtab" >}}Resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_EN_2022.pdf" "newtab" >}}Resume{{< /staticref >}}.
