@@ -28,7 +28,7 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0003-0349-2584
 organizations:
-  - name: "Open Ephys Production Site"
+  - name: "Open Ephys"
     url: https://open-ephys.org/
   - name: Talleres Open Source
     url: https://github.com/talleresopensource/
