@@ -42,6 +42,6 @@ I started volunteering and developing open science initiatives, since I am passi
 
 I also enjoy DIY tutorials, baking, exploring outdoors, and playing the oboe in orchestra.
 
-![My timeline](/media/Timeline_edited_withlogos_transp.png)
+![My timeline - which needs an update!](/media/Timeline_edited_withlogos_transp.png)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_EN_2022.pdf" "newtab" >}}Resume{{< /staticref >}}.
