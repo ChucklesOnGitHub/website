@@ -1,6 +1,6 @@
 ---
 title: Cecilia Thomsett Herbert, PhD
-role: PhD at the Dynamical Systems Laboratory, UBA and CONICET
+role: Training, Support and Community Engagement at Open Ephys Production Site, Lisbon
 avatar_filename: avatar_ceci.jpg
 bio: ""
 interests: []
@@ -28,23 +28,19 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0003-0349-2584
 organizations:
-  - name: " Dynamical Systems Laboratory"
-    url: http://www.lsd.df.uba.ar/
-  - name: Department of Physics, University of Buenos Aires
-    url: https://sitio.df.uba.ar
-  - name: CONICET
-    url: https://www.conicet.gov.ar/new_scp/detalle.php?id=50233&datos_academicos=yes
+  - name: "Open Ephys Production Site"
+    url: https://open-ephys.org/
   - name: Talleres Open Source
     url: https://github.com/talleresopensource/
 email: ""
 superuser: true
 highlight_name: false
 ---
-My research interests are in behavioural neuroscience. During my PhD I studied the neural coding of song production in canaries using extracellular electrophysiology. I built a custom lightweight microdrive and used microwire tetrodes to record single-unit and LFP activity in freely behaving animals and wrote custom scripts to analyze the data. Check out my work below.
+My research interests are in behavioural neuroscience. During my PhD at the Dynamical Systems Laboratory (UBA-CONICET), I studied the neural coding of song production in canaries using extracellular electrophysiology. I built a custom lightweight microdrive and used microwire tetrodes to record single-unit and LFP activity in freely behaving animals and wrote custom scripts to analyze the data. Check out my work and outreach on bioacoustics and sound visualization below.
 
-I have recently started volunteering and developing open science initiatives, since I am passionate about teaching people new tools to help solve their problems and encouraging others to learn. I have always been interested in the intersection between education and technology and love doing outreach on bioacoustics and sound visualization.
+I started volunteering and developing open science initiatives, since I am passionate about teaching people new tools to help solve their problems and encouraging others to learn. I now train researchers on about open source tools for neuroscience and behavior. I strive to disseminate this knowledge inclusively and accessibly, focusing on new users and language barriers.
 
-I also enjoy everything DIY, baking and playing the oboe in orchestras.
+I also enjoy DIY tutorials, baking, exploring outdoors, and playing the oboe in orchestra.
 
 ![My timeline](/media/Timeline_edited_withlogos_transp.png)
 
