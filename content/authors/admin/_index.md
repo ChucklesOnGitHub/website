@@ -1,6 +1,6 @@
 ---
 title: Ceci Herbert
-role: Training, Support and Community Engagement at Open Ephys Production Site, Lisbon
+role: Training, Support and Community Engagement
 avatar_filename: avatar_ceci.jpg
 bio: ""
 interests: []
