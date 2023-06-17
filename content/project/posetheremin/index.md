@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 date: 2022-11-25T00:00:00.000Z
-summary: Outreach activities using spectrograms for FCEN UBA Biology Week
+summary: Outreach activities using real-time pose estimation in Bonsai
 url_video: ""
 title: Pose Theremin
 subtitle: Using real-time pose estimation to make music with our bodies
