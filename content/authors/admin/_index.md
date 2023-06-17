@@ -1,5 +1,5 @@
 ---
-title: Cecilia Thomsett Herbert, PhD
+title: Ceci Herbert, PhD
 role: Training, Support and Community Engagement at Open Ephys Production Site, Lisbon
 avatar_filename: avatar_ceci.jpg
 bio: ""
@@ -36,11 +36,16 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-My research interests are in behavioural neuroscience. During my PhD at the Dynamical Systems Laboratory (UBA-CONICET), I studied the neural coding of song production in canaries using extracellular electrophysiology. I built a custom lightweight microdrive and used microwire tetrodes to record single-unit and LFP activity in freely behaving animals and wrote custom scripts to analyze the data. Check out my work and outreach on bioacoustics and sound visualization below.
+I'm a neuroscientist and currently provide trainining and technical support for researchers at Open Ephys.
+My focus is on open source tools for behavioral neuroscience: hardware and software for electrophysiology and neuronal imaging acquisition in freely behaving animals, as well as for behavioral recording and control.
 
-I started volunteering and developing open science initiatives, since I am passionate about teaching people new tools to help solve their problems and encouraging others to learn. I now train researchers on about open source tools for neuroscience and behavior. I strive to disseminate this knowledge inclusively and accessibly, focusing on new users and language barriers.
+I love crafting interactive activities to demo tools and concepts for workshops and scientific events, and strive to disseminate knowledge inclusively and accessibly, focusing on new users and language barriers.
 
-I also enjoy DIY tutorials, baking, exploring outdoors, and playing the oboe in orchestra.
+I started volunteering and developing open science initiatives because I am passionate about teaching people new tools to help solve their problems and encouraging others to learn. One of my proudest moments was organizing workshops and a week long online course with fellow graduate students to bring open source to our side of the world, in Spanish. You can learn more about [Talleres Open Source](https://talleresos.netlify.app/) and use the [course materials](https://github.com/talleresopensource/taller-ibro-larc). We sent kits to 25 students from 8 countries across Latin America, and also had more participants follow the talks and recorded lectures. 
+
+Previously, I did a PhD at the Dynamical Systems Laboratory (UBA-CONICET), studying the neural coding of song production using extracellular electrophysiology. I built custom lightweight microdrives and used microwire tetrodes to record single-unit and LFP activity during song in canaries. You can check out my work and outreach on bioacoustics and sound visualization below.
+
+Besides working in this space, I enjoy going to the beach and exploring outdoors, cooking, tinkering at home and live classical music.
 
 ![My timeline - which needs an update!](/media/Timeline_edited_withlogos_transp.png)
 
