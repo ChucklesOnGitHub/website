@@ -17,15 +17,15 @@ url_slides: ""
 links:
   - icon: youtube
     icon_pack: fab
-    name: Code
+    name: Lectures
     url: https://youtube.com/playlist?list=PL2ttpDKStgJAIu2jOuGwjMjh1IACVgq0k
   - icon: github
     icon_pack: fab
-    name: Code
+    name: Materials
     url: https://github.com/talleresopensource/taller-ibro-larc
   - icon: fa-browser
     icon_pack: fab
-    name: Code
+    name: Website
     url: https://tallerneurolatam.netlify.app/
 image:
   caption: Latin American course on neural and behavioral acquisition
