@@ -49,4 +49,4 @@ Besides working in this space, I enjoy going to the beach and exploring outdoors
 
 ![My timeline - which needs an update!](/media/Timeline_edited_withlogos_transp.png)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_EN_2022.pdf" "newtab" >}}Resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_EN_2023.pdf" "newtab" >}}Resume{{< /staticref >}}.
