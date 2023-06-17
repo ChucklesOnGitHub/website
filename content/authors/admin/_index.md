@@ -36,7 +36,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a neuroscientist and currently provide trainining and technical support for researchers at [Open Ephys](https://open-ephys.org).
+I train and provide technical support for researchers at [Open Ephys](https://open-ephys.org).
 My focus is on open source tools for behavioral neuroscience: hardware and software for electrophysiology and neuronal imaging acquisition in freely behaving animals, as well as for behavioral recording and control.
 
 I love crafting interactive activities to demo tools and concepts for workshops and scientific events, and strive to disseminate knowledge inclusively and accessibly, focusing on new users and language barriers.
