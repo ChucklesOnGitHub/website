@@ -30,7 +30,7 @@ links:
 image:
   caption: Latin American course on neural and behavioral acquisition
   focal_point: Smart
-  filename: FlyerCursoWeb_largo.png
+  filename: flyerCurso.png
   alt_text: Course Flyer
 url_code: ""
 ---
