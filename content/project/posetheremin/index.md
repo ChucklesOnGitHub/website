@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: posetheremin
 url_pdf: ""
 date: 2022-11-25T00:00:00.000Z
 summary: Outreach activities using real-time pose estimation in Bonsai
