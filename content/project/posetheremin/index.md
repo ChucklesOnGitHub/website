@@ -28,4 +28,5 @@ url_code: ""
 ---
 Markerless pose estimation using deep neural networks performed in real-time and mapped to sounds using Bonsai.
 With just a webcam, moving one wrist up and down controls sound frequency (pitch) and the other wrist moving left and right to controls sound amplitude (volume).
-![PoseTheremin](/media/PoseTheremin_C3.mp4)
+
+{{< video src="PoseTheremin_C3.mp4" controls="yes" >}}
