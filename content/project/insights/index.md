@@ -2,10 +2,10 @@
 slides: insights
 url_pdf: ""
 date: 2021-11-5T00:00:00.000Z
-summary: Insights into neural signal acquisition course
+summary: Hands-on remote workshop for Latin American students
 url_video: ""
-title: IBRO-LARC course Insights into neural signal acquisition
-subtitle: Hands-on remote workshop for Latin American students
+title: Insights into neural signal acquisition course
+subtitle: IBRO-LARC remote hands-on workshop
 featured: false
 tags:
   - Electrophysiology
@@ -23,7 +23,7 @@ links:
     icon_pack: fab
     name: Materials
     url: https://github.com/talleresopensource/taller-ibro-larc
-  - icon: fa-browser
+  - icon: fa-regular fa-browser
     icon_pack: fab
     name: Website
     url: https://tallerneurolatam.netlify.app/
