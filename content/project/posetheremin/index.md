@@ -22,6 +22,7 @@ links:
 image:
   caption: Playing music with our body using a camera
   focal_point: Smart
+  filename: posetheremin.jpg
   alt_text: A person dancing with dots of their pose estimation
 url_code: ""
 ---
