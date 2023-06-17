@@ -16,7 +16,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Watch
-    url: https://www.youtube.com/watch?v=DBgzqF93tIw
+    url: https://www.youtube.com/channel/UCz3w8tadwU5hGbH4RX1Gkzg
 image:
   caption: Talleres Open Source
   focal_point: Smart
