@@ -38,4 +38,4 @@ Students received kits to build their own ephys acquisition system and perform b
 25 students from 8 countries across Latin America participated, as well as many more that joined the open talks and recorded lectures.
 
 Check out the talks and course lectures in Spanish on [YouTube](https://youtube.com/playlist?list=PL2ttpDKStgJAIu2jOuGwjMjh1IACVgq0k) and the course materials on [GitHub](https://github.com/talleresopensource/taller-ibro-larc).
-The program listing everyone who participated is on the course [website](https://tallerneurolatam.netlify.app/)https://tallerneurolatam.netlify.app/.
+The program listing everyone who participated is on the course [website](https://tallerneurolatam.netlify.app/).
