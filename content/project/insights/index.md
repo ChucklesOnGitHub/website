@@ -2,10 +2,10 @@
 slides: insights
 url_pdf: ""
 date: 2021-11-5T00:00:00.000Z
-summary: Latin American course on neural and behavioral acquisition
+summary: Insights into neural signal acquisition course
 url_video: ""
-title: Adquisición de señales neuronales
-subtitle: Taller Práctico Abierto IBRO-LARC
+title: IBRO-LARC course Insights into neural signal acquisition
+subtitle: Hands-on remote workshop for Latin American students
 featured: false
 tags:
   - Electrophysiology
