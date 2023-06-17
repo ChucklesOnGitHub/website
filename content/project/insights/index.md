@@ -23,7 +23,7 @@ links:
     icon_pack: fab
     name: Code
     url: https://github.com/talleresopensource/taller-ibro-larc
-  - icon: browser
+  - icon: fa-browser
     icon_pack: fab
     name: Code
     url: https://tallerneurolatam.netlify.app/
@@ -34,7 +34,7 @@ image:
   alt_text: Course Flyer
 url_code: ""
 ---
-Students received kits to build their own ephys acquisition system and perfomr behavioral assays on robot animals.
+Students received kits to build their own ephys acquisition system and perform behavioral assays on robot animals.
 25 students from 8 countries across Latin America participated, as well as many more that joined the open talks and recorded lectures.
 
 Check out the talks and the whole course in Spanish on YouTube and the course materials on GitHub.
