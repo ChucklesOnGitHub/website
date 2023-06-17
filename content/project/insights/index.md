@@ -5,7 +5,7 @@ date: 2021-11-5T00:00:00.000Z
 summary: Hands-on remote workshop for Latin American students
 url_video: ""
 title: Insights into neural signal acquisition course
-subtitle: IBRO-LARC remote hands-on workshop
+subtitle: IBRO-LARC remote workshop with an open-source hands-on approach
 featured: false
 tags:
   - Electrophysiology
