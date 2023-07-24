@@ -45,8 +45,6 @@ I started volunteering and developing open science initiatives because I am pass
 
 Previously, during my PhD at the Dynamical Systems Laboratory (UBA-CONICET, Argentina), I studied the neural coding of song production using extracellular electrophysiology. I built custom lightweight microdrives and used microwire tetrodes to record single-unit and LFP activity during song in canaries. You can check out my work and outreach on bioacoustics and sound visualization below.
 
-Besides working in this space, I enjoy going to the beach and exploring outdoors, cooking, tinkering at home and live classical music.
+Besides working in this space, I enjoy going to the beach and exploring the outdoors, cooking and trying new food, tinkering at home and live  music.
 
-![My timeline - which needs an update!](/media/Timeline_edited_withlogos_transp.png)
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_CHerbert_EN_2023.pdf" "newtab" >}}Resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check out my background, teaching experience, invited talks and more in my {{< staticref "media/CV_CHerbert_EN_2023.pdf" "newtab" >}}Resume{{< /staticref >}}.
