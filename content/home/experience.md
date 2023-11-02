@@ -106,7 +106,7 @@ experience:
     location: Marine Biological Laboratory, Woods Hole, MA, USA
     date_start: '2018-06-03'
     date_end: '2018-07-29'
-    description: Intensive eight-week laboratory and lecture course focusing on the neural basis of behavior, with weekly guest lecturer seminars. Modules: Leech, Electric Fish, Fly, Rodent Somatosensory.
+    description: Intensive eight-week laboratory and lecture course focusing on the neural basis of behavior, with weekly guest lecturer seminars. Leech, Electric Fish, Fly and Rodent Somatosensory cycles.
 
   - title: Taller práctico abierto IBRO-LARC sobre adquisición de señales neuronales 
     company: Organizer
@@ -135,4 +135,6 @@ experience:
     date_end: '2023-05-05'
     description: Focused on closed-loop setups using the Open Ephys GUI and acquistion board. Interactive stations included live tracking and pose estimation using Bonsai and DeepLabCut.
     
+---
+
 ---
