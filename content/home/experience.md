@@ -58,8 +58,8 @@ experience:
     date_end: '2022-11-25'
     description: Taught advanced techniques for measuring and analysing behaviour, as well as fundamental principles of studying behavior, focused on the use of DeepLabCut.
 
-  - title: SfN Latin American Training Program
-    company: Organizer and Teacher in the Hands-on module “Closed-loop behavior with Bonsai”
+  - title: Hands-on module “Closed-loop behavior with Bonsai”, SfN Latin American Training Program
+    company: Organizer and Teacher
     company_url: 'https://sociedadneurociencias.uy/2022/09/24/latin-american-training-program-latp2022/'
     company_logo: ''
     location: Instituto de Investigaciones Biológicas Clemente Estable, Montevideo, Uruguay
@@ -117,7 +117,7 @@ experience:
     date_end: '2021-11-05'
     description: Inspired by the Open Ephys Cajal NeuroKit Course and with a group of colleagues, we adapted the materials and gave a course in Spanish using kits to 25 students in 8 countries across Latin America, at no cost to them thanks to IBRO funding. The course included lectures by open source tool developers. All the materials are open source on GitHub and on YouTube.
 
-  - title: Miniscope talk and hands-on workshop, Paris Neuro Course
+  - title: Talk and hands-on workshop "Miniscopes at Open Ephys", Paris Neuro Course
     company: Instructor
     company_url: 'https://parisneuro.ovh/'
     company_logo: ''
@@ -126,7 +126,7 @@ experience:
     date_end: '2023-05-14'
     description: Presented the UCLA Miniscope system with insights about how user feedback shapes iterations of the tools produced at Open Ephys. Demoed Miniscope acquisition in Bonsai for use of coaxial commutators and synchronization with external hardware to integrate calcium imaging acquisition with behavioral paradigms. Collab with Alex Leighton.
     
-  - title: Open Source Tools for Behavioral Neuroscience Workshop at NeuroDoWo
+  - title: Workshop "Open Source Tools for Behavioral Neuroscience", NeuroDoWo
     company: Instructor
     company_url: 'https://neurodowo.nwg-info.de/'
     company_logo: ''
