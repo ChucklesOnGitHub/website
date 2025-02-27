@@ -1,6 +1,6 @@
 ---
 title: Ceci Herbert
-role: Training, Support and Community Engagement
+role: Training, Support and Outreach
 avatar_filename: avatar_ceci.jpg
 bio: ""
 interests: []
@@ -8,9 +8,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/ChuckleScience
+    link: https://bsky.app/profile/chucklescience.bsky.social
     display:
       header: false
   - icon: graduation-cap
@@ -28,15 +28,13 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0003-0349-2584
 organizations:
-  - name: "Open Ephys"
+  - name: "Open Ephys Production Site"
     url: https://open-ephys.org/
-  - name: Talleres Open Source
-    url: https://github.com/talleresopensource/
 email: ""
 superuser: true
 highlight_name: false
 ---
-I train and provide technical support for researchers at [Open Ephys](https://open-ephys.org).
+I lead the team that provides Training, Support and Outreach for researchers at [Open Ephys](https://open-ephys.org).
 My focus is on open source tools for behavioral neuroscience: hardware and software for electrophysiology and neuronal imaging acquisition in freely behaving animals, as well as for behavioral recording and control.
 
 I love crafting interactive activities to demo tools and concepts for workshops and scientific events, and strive to disseminate knowledge inclusively and accessibly, focusing on new users and language barriers.
