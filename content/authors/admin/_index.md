@@ -1,6 +1,6 @@
 ---
 title: Ceci Herbert
-role: Training, Support and Outreach
+role: Scientific Director
 avatar_filename: avatar_ceci.jpg
 bio: ""
 interests: []
@@ -11,8 +11,6 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/chucklescience.bsky.social
-    display:
-      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=wAjdb0cAAAAJ&hl=en
@@ -21,7 +19,7 @@ social:
     link: https://github.com/ChucklesOnGitHub
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/cecilia-herbert-3847a877/
+    link: https://www.linkedin.com/in/cecilia-t-herbert-3847a877/
   - display:
       header: false
     icon: orcid
