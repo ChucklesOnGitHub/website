@@ -43,4 +43,4 @@ Previously, during my PhD at the Dynamical Systems Laboratory (UBA-CONICET, Arge
 
 Besides working in this space, I enjoy going to the beach and exploring the outdoors, cooking and trying new food, tinkering at home and live  music.
 
-{{< icon name="download" pack="fas" >}} Check out my background, teaching experience, invited talks and more in my {{< staticref "media/CV_CHerbert_EN_2023.pdf" "newtab" >}}Resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check out my background, teaching experience, invited talks and more in my {{< staticref "media/CV_CHerbert_EN_2025.pdf" "newtab" >}}Resume{{< /staticref >}}.
